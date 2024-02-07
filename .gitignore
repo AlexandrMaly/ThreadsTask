@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/out/production/Threads-task/_01_Sleep/Threads/Fruits.class
+/out/production/Threads-task/_03_waitAndNotify/Main.class
+/out/production/Threads-task/_01_Sleep/MainSleep.class
+/out/production/Threads-task/_02_SemaphoreAndJoin/MainJoinSemaphore.class
+/out/production/Threads-task/_02_SemaphoreAndJoin/Threads/Fruits.class
+/out/production/Threads-task/_04_/Threads/Fruits.class
+/out/production/Threads-task/_03_waitAndNotify/Threads/Fruits.class
+/out/production/Threads-task/_04_/Main.class
+/.idea/misc.xml
+/.idea/modules.xml
+/Threads-task.iml
+/.idea/uiDesigner.xml
+/out/production/Threads-task/_01_Sleep/Threads/Vegetables.class
+/out/production/Threads-task/_02_SemaphoreAndJoin/Threads/Vegetables.class
+/out/production/Threads-task/_03_waitAndNotify/Threads/Vegetables.class
+/out/production/Threads-task/_04_/Threads/Vegetables.class
